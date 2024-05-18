@@ -1,5 +1,5 @@
 # A Commonplace book[^2] for a Brave new world[^4]
-![Brave_New_World](https://en.wikipedia.org/wiki/Brave_New_World#/media/File:BraveNewWorld_FirstEdition.jpg)
+![Brave_New_World](https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg)
 
 > A **Commonplace book** is a scrapbook used by readers, writers, students, and scholars as an aid for remembering useful concepts or facts they have learned. They have been kept from antiquity, and were kept particularly during the Renaissance and in the nineteenth century. Such books are similar to scrapbooks filled with items of many kinds: sententiae (often with the compiler's responses), notes, proverbs, adages, aphorisms, maxims, quotes, letters, poems, tables of weights and measures, prayers, legal formulas, and recipes.[^3]
 
